@@ -16,5 +16,8 @@ This repository demonstrates a simple CI/CD pipeline that builds and deploys a D
 ---
 
 ## 📁 Project Structure
-
+.
+├── app.py # Main Flask application
+├── requirements.txt # Python dependencies
+└── Dockerfile # Docker build instructions
 
