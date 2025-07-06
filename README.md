@@ -1,4 +1,3 @@
-[Active Link](http://56.228.14.161:5000)
 
 # Flask CI/CD with Jenkins and Docker
 
